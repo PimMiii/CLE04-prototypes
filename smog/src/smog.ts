@@ -1,5 +1,4 @@
 import * as PIXI from 'pixi.js'
-import { InteractionData } from 'pixi.js'
 
 
 export class Smog extends PIXI.Graphics{
